@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a postdoctoral fellow at University of Alberta, working with [Prof. Lei Ma](https://www.malei.org/). Before that, I worked with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) as a research fellow at Nanyang Technological University from 2021-2023. I received my Ph.D degree in software engineering from Peking University, supervised by [Prof. Zhi Jin](https://faculty.pku.edu.cn/zhijin/en/index.htm). My research interests mainly focus on AI for Software Engineering, particularly using deep learning and LLMs for program understanding, code generation, and software testing.
+
 
 A data-driven personal website
 ======
