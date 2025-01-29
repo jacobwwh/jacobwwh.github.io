@@ -10,7 +10,7 @@ redirect_from:
   - /publications.html
 ---
 
-The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
+The full list can be found at <a href="https://scholar.google.com/citations?user=wOFP-oUAAAAJ&hl">Google Scholar</a>. <i>(* for corresponding author, # for co-first author)</i>
 
 ---
  **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
