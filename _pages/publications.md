@@ -17,7 +17,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**  
    **Wenhan Wang#**, Chenyuan Yang#, Zhijie Wang#, Yuheng Huang, Zhaoyang Chu, Da Song, Lingming Zhang, An Ran Chen, Lei Ma. 
-   In NAACL 2025 findings (to be appear). [\[arxiv\]](https://arxiv.org/abs/2406.04531)
+   In NAACL 2025 findings (to appear). [\[arxiv\]](https://arxiv.org/abs/2406.04531)
   
 2024
 
@@ -25,8 +25,16 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    Jian Zhang, Chong Wang, Anran Li, **Wenhan Wang**, Tianlin Li, Yang Liu.  
    39th IEEE/ACM International Conference on Automated Software Engineering, ASE 2024. [\[PDF\]](http://zhangj111.github.io/files/ASE24_VulAdvisor.pdf)
 
-**Unveiling code pre-trained models: Investigating syntax and semantics capacities.**
-  Wei Ma, Shangqing Liu, Mengjie Zhao, Xiaofei Xie, **Wenhang Wang**, Qiang Hu, Jie Zhang, Yang Liu.
-  ACM Transactions on Software Engineering and Methodology (TOSEM). [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3664606?casa_token=14aNROHEbY8AAAAA:_6A_qshezuoL2_q6tJDtAi0-bcFBV0kcmbay7ZdeBTjw9psjeKRTwMQgO2m1ivEftaKrHaheV8Nw)
+**Unveiling code pre-trained models: Investigating syntax and semantics capacities.**  
+   Wei Ma, Shangqing Liu, Mengjie Zhao, Xiaofei Xie, **Wenhang Wang**, Qiang Hu, Jie Zhang, Yang Liu.  
+   ACM Transactions on Software Engineering and Methodology (TOSEM). [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3664606?casa_token=14aNROHEbY8AAAAA:_6A_qshezuoL2_q6tJDtAi0-bcFBV0kcmbay7ZdeBTjw9psjeKRTwMQgO2m1ivEftaKrHaheV8Nw)
+
+**An Empirical Study on Noisy Label Learning for Program Understanding**  
+   **Wenhan Wang**, Yanzhou Li, Anran Li, Jian Zhang, Wei Ma, Yang Liu.  
+   In Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (ICSE 2024). [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3597503.3639217?casa_token=EeGJLPW87GQAAAAA:9EvCUTwMC88sPbDm-NnwEMQ-0iDd-DmuZ8hBeJ42jppVQJ7L62wW2iSNxAEjKIBbOPOkHeFMAYfX)
+
+**BadEdit: Backdooring Large Language Models by Model Editing**  
+   Yanzhou Li, Tianlin Li, Kangjie Chen, Jian Zhang, Shangqing Liu, **Wenhan Wang**, Tianwei Zhang, Yang Liu.  
+   The Twelfth International Conference on Learning Representations (ICLR 2024). [\[PDF\]](https://openreview.net/pdf?id=duZANm2ABX)
 
 
