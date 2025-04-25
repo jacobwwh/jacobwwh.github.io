@@ -21,9 +21,9 @@ repository               : "jacobwwh/jacobwwh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-page.jpg"
   name             : "Wenhan Wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Fellow at University of Alberta"
   location         : "Canada"
   employer         : "University of Alberta"
