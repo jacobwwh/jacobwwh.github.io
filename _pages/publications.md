@@ -17,7 +17,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**  
    **Wenhan Wang#**, Chenyuan Yang#, Zhijie Wang#, Yuheng Huang, Zhaoyang Chu, Da Song, Lingming Zhang, An Ran Chen, Lei Ma. 
-   In NAACL 2025 findings (to appear). [\[arxiv\]](https://arxiv.org/abs/2406.04531)
+   In NAACL 2025 findings. [\[pdf\]](https://aclanthology.org/2025.findings-naacl.197.pdf)
   
 ### 2024
 
