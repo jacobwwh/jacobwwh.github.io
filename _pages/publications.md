@@ -13,6 +13,12 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=wOFP-oUAAAAJ&hl">Google Scholar</a>. <i>(* for corresponding author, # for co-first author)</i>
 
 ---
+### 2026
+
+**How Powerful are LLMs in Generating Program Specifications?**
+  Fanpeng Yang, Xing Li, Shuling Wang, Jie An, Zeyu Sun, Shenghua Feng, **Wenhan Wang**, Weiyi Wang, Naijun Zhan, Fanjiang Xu.
+  In ICML 2026 (to appear).
+
 ### 2025
 
 **TESTEVAL: Benchmarking Large Language Models for Test Case Generation**  
