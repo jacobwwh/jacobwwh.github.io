@@ -15,6 +15,10 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 ---
 ### 2026
 
+**Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs**<br>
+  Wei Ma, Zhihao Lin, Shangqing Liu, Qiang Hu, Ye Liu, **Wenhan Wang**, Cen Zhang, Liming Nie, Li Li, Yang Liu, Lingxiao Jiang.<br>
+  ACM Transactions on Software Engineering and Methodology (TOSEM) (to appear).
+
 **How Powerful are LLMs in Generating Program Specifications?**  
   Fanpeng Yang, Xing Li, Shuling Wang, Jie An, Zeyu Sun, Shenghua Feng, **Wenhan Wang**, Weiyi Wang, Naijun Zhan, Fanjiang Xu.
   In ICML 2026 (to appear).
@@ -70,5 +74,4 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 **Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree**  
    **Wenhan Wang**, Ge Li, Bo Ma, Xin Xia, Zhi Jin.  
    2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER 2020). [\[PDF\]](https://arxiv.org/pdf/2002.08653)
-
 

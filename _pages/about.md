@@ -13,9 +13,10 @@ I received my Ph.D degree in software engineering from Peking University, superv
 
 News
 ======
+<img src="https://jacobwwh.github.io/images/new.gif">&nbsp; May 16, 2026: Our paper "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs" is accepted by ACM Transactions on Software Engineering and Methodology (TOSEM). Congrats to all coauthors!
+
 <img src="https://jacobwwh.github.io/images/new.gif">&nbsp; May 2026: Our paper "How Powerful are LLMs in Generating Program Specifications?" is accepted to ICML 2026. Congrats to all coauthors!
 
 <img src="https://jacobwwh.github.io/images/new.gif">&nbsp; July 2025: I have joined the Institute of Software, Chinese Academy of Sciences (ISCAS) as an associate researcher (equal to associate professor)!
 
 <img src="https://jacobwwh.github.io/images/new.gif">&nbsp; Jan 2025: Our paper "TESTEVAL: Benchmarking Large Language Models for Test Case Generation" is accepted to NAACL 2025 findings. Congrats to all coauthors!
-
