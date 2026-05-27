@@ -17,7 +17,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 
 **Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs**<br>
   Wei Ma, Zhihao Lin, Shangqing Liu, Qiang Hu, Ye Liu, **Wenhan Wang**, Cen Zhang, Liming Nie, Li Li, Yang Liu, Lingxiao Jiang.<br>
-  ACM Transactions on Software Engineering and Methodology (TOSEM) (to appear).
+  ACM Transactions on Software Engineering and Methodology (TOSEM). [\[pdf\]](https://dl.acm.org/doi/10.1145/3818607).
 
 **How Powerful are LLMs in Generating Program Specifications?**  
   Fanpeng Yang, Xing Li, Shuling Wang, Jie An, Zeyu Sun, Shenghua Feng, **Wenhan Wang**, Weiyi Wang, Naijun Zhan, Fanjiang Xu.
