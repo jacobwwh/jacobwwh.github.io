@@ -15,6 +15,10 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 ---
 ### 2026
 
+**Can Large Language Models Reason About Complex Execution Paths? An Empirical Study on Python**<br>
+  **Wenhan Wang**, Kaibo Liu, Zeyu Sun, An Ran Chen, Ge Li, Gang Huang, Lei Ma.<br>
+  ACM Transactions on Software Engineering and Methodology (TOSEM). [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3822511).
+
 **Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs**<br>
   Wei Ma, Zhihao Lin, Shangqing Liu, Qiang Hu, Ye Liu, **Wenhan Wang**, Cen Zhang, Liming Nie, Li Li, Yang Liu, Lingxiao Jiang.<br>
   ACM Transactions on Software Engineering and Methodology (TOSEM). [\[pdf\]](https://dl.acm.org/doi/10.1145/3818607).
@@ -74,4 +78,3 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 **Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree**  
    **Wenhan Wang**, Ge Li, Bo Ma, Xin Xia, Zhi Jin.  
    2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER 2020). [\[PDF\]](https://arxiv.org/pdf/2002.08653)
-
